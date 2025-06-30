@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: crimson;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(26, 127, 216);
+}
+
+body {
+    background-image: url(/css/descarga\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.regresar {
+    margin-left: 85%;
+    margin-top: 2%;
+}
